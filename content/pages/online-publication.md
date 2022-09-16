@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: 'Textbook Contents: The Glass Wall: Encouraging Interaction, Questions:
+  Theirs and Yours, Before You Walk In, A Word About Pedagogy, In The Classroom, Off
+  to a Good Start, Basic Communication Skills, Seeing Is Understanding: Using the
+  Blackboard, Evaluating Your Students: Assignment, Exams, Grades, Evaluating You:
+  Feedback, Small Groups: Tutorials and Office Hours, Invisible Students, Teachers
+  From Other Countries, Problem Students and Students with Problem, Epilogue: A Word
+  about You, and Summary.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Online Publication
@@ -9,7 +16,7 @@ uid: 5fff0db5-801c-4640-647b-2436c93d280a
 Textbook
 --------
 
-*   The complete text in a single file ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.5MB]({{< baseurl >}}/resources/mitres18-004_torch_or_the_firehose))
+*   The complete text in a single file ({{% resource_link "e4bd2b5e-02c8-1980-603b-e495ce77ef5c" "PDF - 2.5MB" %}})
 
 Translations
 ------------
